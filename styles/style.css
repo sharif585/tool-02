@@ -419,7 +419,16 @@ marquee {
   .section-title {
     margin: 40px 0px;
   }
-
+  /* footer section */
+  .footer {
+    flex-direction: column;
+    margin: 0 16px;
+    gap: 32px;
+  }
+  .footer-nav,
+  .footer-social {
+    margin: 0 16px;
+  }
 
 }
 
